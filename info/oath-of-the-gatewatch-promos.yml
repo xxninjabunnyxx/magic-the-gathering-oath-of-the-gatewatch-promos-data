@@ -1,0 +1,18 @@
+---
+object: set
+id: 7de0b874-7cb5-495b-9b2c-137a92d3d493
+code: pogw
+name: Oath of the Gatewatch Promos
+uri: https://api.scryfall.com/sets/7de0b874-7cb5-495b-9b2c-137a92d3d493
+scryfall_uri: https://scryfall.com/sets/pogw
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apogw&unique=prints
+released_at: '2016-01-22'
+set_type: promo
+card_count: 65
+parent_set_code: ogw
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: bfz
+block: Battle for Zendikar
+icon_svg_uri: https://svgs.scryfall.io/sets/ogw.svg?1694404800
